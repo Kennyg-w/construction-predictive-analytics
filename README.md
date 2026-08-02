@@ -83,6 +83,6 @@ jupyter notebook notebooks/exploration.ipynb
 ---
 
 **Author:** Kenesuo Wolowolo
-**Qualifications:** MSc Data Science (Commendation) | MSc Project Management
+**Qualifications:** BEng Mechanical/Offshore Engineering | MSc Data Science (Commendation) | MSc Project Management
 **LinkedIn:** [linkedin.com/in/kenwolo](https://linkedin.com/in/kenwolo)
 **GitHub:** [github.com/Kennyg-w](https://github.com/Kennyg-w)
